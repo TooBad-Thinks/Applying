@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome and thank you for your interest in redrawing for Keiretsu!
+Welcome and thank you for your interest in redrawing for CRTL + Z Scans!
 
 **Redrawing** enables scanlators to effectively replace Japanese text with translated dialogue, sound effects, and signs. Without redrawing, the experience of reading scanlated manga or manhwa would be very jarring as it would be annotated (overlayed on top of the raws) instead of actually being part of it.
 
@@ -20,15 +20,8 @@ There are still efficient ways that have been discovered by the ones before so I
 
 ## Taking the Test
 
-For this test, **you are required to remove and redraw all Japanese text you see, including punctuation**. If you think its text and not art, remove it.
+For this test, **you are required to remove and redraw all Japanese text you see, including punctuation**. If you think its text and not art, **remove it.**
 
-Basically turn this:
-
-![Raw](assets/raw.png)
-
-into this:
-
-![Cleaned and Redrawn](assets/redrawn.png)
 
 This pages you are required to redraw are located [here](https://drive.google.com/file/d/1GeGRndGQ1-VMV0cDIp905iccG0Lx6QTh/view?usp=drive_link).
 
@@ -39,6 +32,8 @@ Our criteria will be pen tool usage for speedlines, halftone and screentone repl
 
 ## Submitting Your Application
 
-Congratulations! In order to submit your application, please make sure you've already joined our [Discord server](https://staff.keiretsu.cc) and open a ticket in [this channel](https://discordapp.com/channels/1131989690715754602/1167557074662731857). After opening a ticket, tell us you're applying for redrawing and submit your finished test files as .PSD's as well as exported .PNG's for accessibility. Please keep in mind that we strictly use .PSD's as it is the most commonly used format in scanlation when working with other people!
+Once you’ve finished your test, just say “Done!” in your ticket or DM with the tester.
+Please upload your work in a .jpg, .jpeg. png, or any image format so I can review your work.
+They’ll check your work and get back to you as soon as possible.
 
-Please give us 1-3 days to go over your application. We will always tell you if you have been rejected. If you think we may have forgotten to reply, please ping @imsisig in your ticket!
+Easy, right?
