@@ -6,7 +6,7 @@ Welcome and thank you for your interest in typesetting for CRTL + Z Scans!
 
 Before anything else, it is *very important* that you make an effort to skim or review on current typesetting norms.
 
-We *highly recommend* reading [yours' Guide to Typesetting](https://docs.google.com/document/d/1Ss6AW07S8onlS1-SbgyoF4w1ve285B2fVqsgOtkKuLk/edit?usp=sharing) before attempting the test. **Everything you need to do regarding typesetting is comprehensively explained in it.** The things we look for when considering applicants is also detailed in the guide and most of our feedback will be pointing out deficiencies in the fundamentals.
+We *highly recommend* reading [yours' Guide to Typesetting](https://docs.google.com/document/d/1GSx_Z-byZNYQ8Uu_NPQkWhfQj95jP3lciyd5xEU36iE/edit?usp=sharing) before attempting the test. **Everything you need to do regarding typesetting is comprehensively explained in it.** The things we look for when considering applicants is also detailed in the guide and most of our feedback will be pointing out deficiencies in the fundamentals.
 
 
 ## Taking the Test
