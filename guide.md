@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome and thank you for your interesting Japanese Translation for Keiretsu!
+Welcome and thank you for your interesting Japanese Translation for CRTL + Z Scans!
 
 **Translation** is arguably the most important role in scanlation. The entire quality of a chapter relies on how accurate the translator interprets the Japanese text and into phrases and sentences that would make sense in English.
 
@@ -38,6 +38,6 @@ Please follow the format below to ensure that we know which text you are transla
 
 ## Submitting Your Application
 
-Congratulations! In order to submit your application, please make sure you've already joined our [Discord server](https://staff.keiretsu.cc) and open a ticket in [this channel](https://discordapp.com/channels/1131989690715754602/1167557074662731857). After opening a ticket, tell us you're applying for translation and submit your test on a .txt/.pdf/.doc/.docx or any text-based format for us to properly review it.
+Congratulations! In order to submit your application, please make sure you've already joined our [Discord server](https://staff.CRTL + Z Scans.cc) and open a ticket in [this channel](https://discordapp.com/channels/1131989690715754602/1167557074662731857). After opening a ticket, tell us you're applying for translation and submit your test on a .txt/.pdf/.doc/.docx or any text-based format for us to properly review it.
 
 Please give us 1-3 days to go over your application. We will always tell you if you have been rejected. If you think we may have forgotten to reply, please ping @imsisig in your ticket!
