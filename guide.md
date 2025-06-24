@@ -38,6 +38,9 @@ Please follow the format below to ensure that we know which text you are transla
 
 ## Submitting Your Application
 
-Congratulations! In order to submit your application, please make sure you've already joined our [Discord server](https://staff.CRTL + Z Scans.cc) and open a ticket in [this channel](https://discordapp.com/channels/1131989690715754602/1167557074662731857). After opening a ticket, tell us you're applying for translation and submit your test on a .txt/.pdf/.doc/.docx or any text-based format for us to properly review it.
+Once you’ve finished your test, just say “Done!” in your ticket.
+Please upload your work in a .txt, .docx, or any text file format so I can review your work.
 
-Please give us 1-3 days to go over your application. We will always tell you if you have been rejected. If you think we may have forgotten to reply, please ping @imsisig in your ticket!
+They’ll check your work and get back to you as soon as possible.
+
+Easy, right?
